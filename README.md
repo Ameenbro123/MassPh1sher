@@ -7,5 +7,5 @@ A mass phishing tool to send multiple emails the same message.
 ### Windows
 `py -3 massph1sher.py [Your email] [File with target email] [File with message you want to send]`
 
-### Licenses
+## Licenses
 [MIT](https://choosealicense.com/licenses/mit/)
